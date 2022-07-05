@@ -1,0 +1,11 @@
+{
+  "name": "webassembly_003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "catafest",
+  "license": "ISC"
+}
